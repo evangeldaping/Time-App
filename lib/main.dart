@@ -3,7 +3,7 @@ import 'package:flutter_redux/flutter_redux.dart';
 import 'package:redux/redux.dart';
 import 'package:redux_thunk/redux_thunk.dart';
 
-import 'app_state.dart';
+import 'state/app_state.dart';
 
 void main() => runApp(MyApp());
 

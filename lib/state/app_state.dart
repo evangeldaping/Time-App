@@ -6,7 +6,7 @@ import 'package:intl/intl.dart';
 import 'package:redux/redux.dart';
 import 'package:redux_thunk/redux_thunk.dart';
 
-import 'fetch_time_action.dart';
+import 'actions/fetch_time_action.dart';
 
 class AppState {
   final String _location;
